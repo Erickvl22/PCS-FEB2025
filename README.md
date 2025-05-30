@@ -2,3 +2,5 @@
 Repositorio de la materia de Principios de Construcción de Software Periodo FEB-JUN 2025
 
 Este ejercicio 
+
+Cambio para ejemplo en el readme
